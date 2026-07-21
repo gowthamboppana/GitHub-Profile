@@ -2,8 +2,8 @@
 
 # GOWTHAM DATTA BOPPANA
 
-**Full Stack Software Engineer**
-**GowthamLabs**
+**Full Stack Engineer**
+**Founder, GowthamLabs**
 
 [Portfolio](https://portfolio.gowthamlabs.com) · [GowthamLabs](https://gowthamlabs.com) · [LinkedIn](https://linkedin.com/in/gowthamboppana) · [Email](mailto:contact@gowthamlabs.com)
 
@@ -52,14 +52,14 @@ AI-powered video editing platform
 
 ### Product Ecosystem
 
-ApplyFlow — AI-powered job tracking platform
-Jarvis — AI assistant for productivity and automation
-CreatorFlow — Creator productivity platform
-VisionCut — AI-powered video editing platform
-OmniReach — AI-powered communication platform
-DocKey — AI document management platform
-InkFlow — AI writing platform
-CleanFrame — AI background cleanup platform
+- **ApplyFlow** — AI-powered job tracking platform
+- **Jarvis** — AI assistant for productivity and automation
+- **CreatorFlow** — Creator productivity platform
+- **VisionCut** — AI-powered video editing platform
+- **OmniReach** — AI-powered communication platform
+- **DocKey** — AI document management platform
+- **InkFlow** — AI writing platform
+- **CleanFrame** — AI background cleanup platform
 
 ---
 
@@ -77,8 +77,7 @@ CleanFrame — AI background cleanup platform
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=gowthamboppana&show_icons=true&theme=transparent&hide_border=true" />&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamboppana&layout=compact&theme=transparent&hide_border=true" />
+<img height="150" src="https://github-stats.vercel.app/api?username=gowthamboppana&show_icons=true&theme=default&hide_border=true" />
 
 </div>
 
